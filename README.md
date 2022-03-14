@@ -2,11 +2,11 @@
 # 1.	Overview the task.
 This task is about computation of vote results from the US congressional race from Colorado. Although the results can be done using excel, this exercise can be done using Python because it has the power to automate the results.  If this exercise is successful, the codes developed here can be applied not only other Congressional districts but also for US senate seats. The task in this exercise is to report is to report total vote caste, total votes for each county, percentage of votes from each county, county with largest voter turnout, total number of votes for each candidate, the percentage of vote for each candidate, and the winner of the election based on the popular vote. 
 
-# The purpose of the report is
-i.	To write a python code script that generates results (in particular the votes per county and county with largest vote) and print the outcomes in command line
-ii.	To analyze total votes per county and county with largest voter turnout
-iii.	To analyze vote results of each candidate
-iv.	
+### The purpose of the report is
+1. 	To write a python code script that generates results (in particular the votes per county and county with largest vote) and print the outcomes in command line
+2. To analyze total votes per county and county with largest voter turnout
+3. To analyze vote results of each candidate
+
 # 2.	Data and Method of analysis
 ## 2.1.	Data
  I used a csv data file of three congressional candidates was obtained from Bootcamp for this exercise. 
@@ -51,9 +51,9 @@ The results were in a text file by first creating a file path variable, open the
 
 # 3.	Result 
 ## 3.1.	Total votes, County Votes, Percentage of county votes and County with largest voter turnout 
-•	Total vote:369,711
-•	County vote count 
-•	Jefferson: 38855 
+-Total vote:369,711
+-County vote count 
+-Jefferson: 38855 
 •	Denver: 306,055 
 •	Arapahoe:   24,80
 •	County vote  percentage
