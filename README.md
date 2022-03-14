@@ -51,34 +51,35 @@ The results were in a text file by first creating a file path variable, open the
 
 # 3.	Result 
 ## 3.1.	Total votes, County Votes, Percentage of county votes and County with largest voter turnout 
--Total vote:369,711
--County vote count 
--Jefferson: 38855 
-•	Denver: 306,055 
-•	Arapahoe:   24,80
-•	County vote  percentage
-•	Jefferson: 10.5%(
-•	Denver: 82.8% 
-•	Arapahoe: 6.7%
-## County with largest voter turnout
+##### Total Vote
+- Total vote:369,711
+##### County vote count 
+- Jefferson: 38855 
+- 	Denver: 306,055 
+- 	Arapahoe:   24,80
+###### County vote  percentage
+- Jefferson: 10.5%(
+- Denver: 82.8% 
+- Arapahoe: 6.7%
+###### County with largest voter turnout
 •	 Denver: 82.8%(306,055 votes),  
 
 
 
 ## 3.2.	Individual Candidate vote count, percentage each candidates vote and winner of the vote
-•	Name of candidates: Charles Casper Stockham, Diana Degettee, Raymon Anthony Doane
-•	Candidate vote count 
-	Charles Casper Stockham: 85,213 
-	Diana Degettee:272,892
-	Raymon Anthony Doane,11,606
-•	     Candidate vote percentage
-	Charles Casper Stockham: 23.1%
-	Diana Degettee:73.8%
-	Raymon Anthony Doane:3.1%
-•	Winner of the vote
-	Candidate name: Diana Degettee
-	Vote count: 272,892
-	Vote percentage: :73.8%
+- 	Name of candidates: Charles Casper Stockham, Diana Degettee, Raymon Anthony Doane
+##### Candidate vote count 
+- 	Charles Casper Stockham: 85,213 
+- Diana Degettee:272,892
+- Raymon Anthony Doane,11,606
+##### Candidate vote percentage
+- Charles Casper Stockham: 23.1%
+-	Diana Degettee:73.8%
+- Raymon Anthony Doane:3.1%
+##### Winner of the vote
+-	Candidate name: Diana Degettee
+-	Vote count: 272,892
+- Vote percentage: :73.8%
 # 4.	Election-Audit Summary
 The county and individual candidate vote results are shown in the Fig-4 below. The total votes from the three counties is 369,711. Off which,10.5%(38855 votes), 82.8%(306,055 votes),  and 6.7% (24,801) of the votes are from Jefferson, Denver, and Arapahoe counties, respectively. Denver is the county with the largest (82.8%) voter turnout and Arapahoe is the least (6.7%).
 
